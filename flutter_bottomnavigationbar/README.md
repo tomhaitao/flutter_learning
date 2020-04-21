@@ -2,8 +2,8 @@
 ## 简介
 使用bottomnavigationbar底部导航的demo，新增保持状态的demo，请查阅注释。
 ## 样例
-![](../../../image/botton_navigation_bar.png)
-![](../../../image/bottom_navigation_bar_keep_alive.png)
+![](../image/botton_navigation_bar.png)
+![](../image/bottom_navigation_bar_keep_alive.png)
 ## Getting Started
 
 For help getting started with Flutter, view our online

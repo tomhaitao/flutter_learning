@@ -4,7 +4,7 @@
 
 其中原理及用法已写在注释中
 ## 样例
-![](../../../image/frosted.png)
+![](../image/frosted.png)
 
 ## Getting Started
 
